@@ -1,0 +1,36 @@
+Mouse for Fools — Nexum by Fertorm
+Windows x64 · Paquete portable experimental · Fase 4
+
+ABRIR
+Extrae toda la carpeta y abre "Mouse for Fools.exe".
+Mantén la carpeta _internal junto al ejecutable. No copies solamente el .exe.
+El paquete incluye el intérprete y las bibliotecas necesarias.
+
+La ventana inicia desactivada. Activa con el botón o Ctrl + Alt + M.
+WASD: mover. Ctrl: precisión. Shift: rápido.
+Espacio: clic izquierdo. Q: doble clic. E: clic derecho.
+R/F: scroll. Mantener G: arrastrar.
+Esc: desactivar. Ctrl + Alt + Esc: cerrar completamente.
+Minimizar conserva el modo. X cierra toda la aplicación.
+Puedes restaurar desde el icono de la bandeja.
+
+No requiere privilegios de administrador. No controla el escritorio seguro,
+UAC ni garantiza interacción con aplicaciones elevadas.
+
+DIAGNÓSTICO
+%LOCALAPPDATA%\MouseForFools\logs\application.log
+No se registran teclas ni texto introducido. No hay red ni telemetría.
+
+VALIDACIÓN
+Probado localmente en Windows; consulta VALIDACION.md para el alcance exacto.
+La prueba en otra máquina sin Python se registra por separado.
+No incluye instalador, inicio automático ni actualizaciones automáticas.
+
+LICENCIAS
+Consulta THIRD-PARTY-NOTICES.md y la carpeta licenses.
+Este paquete local no implica una publicación comercial ni firma digital.
+DOCUMENTOS Y ALCANCE
+Privacidad, condiciones de prueba y estado de licencias están disponibles desde
+el botón "Privacidad, uso y licencias" y en PRIVACIDAD.md, TERMINOS.md y LICENCIAS.md.
+Código propio: MIT, Luis Fernando Torrico Moscoso. Ver LICENSE. Reportes en los issues del repositorio comunitario. Revisar las obligaciones de distribución de dependencias antes de publicar binarios.
+
